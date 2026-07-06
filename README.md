@@ -1,4 +1,4 @@
-# 🪟 Windows Programming
+# 🪟 윈도우 프로그래밍 (Windows Programming)
 
 ## 📚 과목 소개
 
